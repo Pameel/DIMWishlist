@@ -1,0 +1,3 @@
+title:Personal Wishlist
+description:A personal Wishlist to keep track of item rolls to optain.
+dimwishlist:item=1911060537&perks=4090651448,2680121939,3400784728,2896038713
